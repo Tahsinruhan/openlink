@@ -3,6 +3,7 @@ h1{
     background-color: rgb(107, 28, 28);
 }
 p{
-    background-color: brown;
+    background-color: rgb(96, 15, 248);
     text-align: justify;
+    color: brown;
 }
